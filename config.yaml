@@ -1,8 +1,7 @@
-baseURL: https://tfasz.github.io/www-dr-evan
+baseURL: https://dr-evan.github.io
 languageCode: en-us
 title: Dr. Evan Freedman | Forensic Psychologist
 theme: hugo-fresh
-canonifyURLs: true
 publishDir: docs
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
