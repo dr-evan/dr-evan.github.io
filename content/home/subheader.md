@@ -2,6 +2,6 @@
 type = "subheader"
 +++
 
-|                                                       |                                                    |
-| ----------------------------------------------------- |----------------------------------------------------|
-| Compassionate, **Expert**, Mental Health Services.    | ![Evan Freedman](/images/evan-standing-narrow.jpg) |
+|                                                                      |                                                    |
+|----------------------------------------------------------------------|----------------------------------------------------|
+| Compassionate, **Expert**,{{< line_break >}} Mental Health Services. | ![Evan Freedman](/images/evan-standing-narrow.jpg) |
