@@ -3,4 +3,4 @@ type = "subheader"
 title = ""
 +++
 
-Compassionate, Expert, Mental Health Services
+Compassionate, Expert, Mental Health Services.
