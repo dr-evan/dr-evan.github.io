@@ -1,4 +1,4 @@
-baseURL = "https://dr-evan.github.io/"
+baseURL = "https://dr-evan.github.io"
 languageCode = "en"
 title = "Board Certified Forensic Psychologist"
 theme = "hugo-initio"
