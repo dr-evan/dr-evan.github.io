@@ -1,15 +1,13 @@
 <div class="row section topspace">
     {{ range where .Data.Pages "Section" .Section }}
     <div class="panel panel-cta">
-        <div class="panel panel-cta">
-            <div class="panel-body">
-                <div class="col-lg-8">
-                    <h3>{{ .Title }}</h3>
-                    <p>{{ .Summary }}</p>
-                </div>
-                <div class="col-lg-2 text-right">
-                    <a href={{ .Permalink }} class="btn btn-primary btn-lg">Read more</a>
-                </div>
+        <div class="panel-body">
+            <div class="col-lg-8">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Summary }}</p>
+            </div>
+            <div class="text-right">
+                <a href={{ .Permalink }} class="btn btn-primary btn-lg">Read more</a>
             </div>
         </div>
     </div>
