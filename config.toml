@@ -1,11 +1,11 @@
 baseURL = "https://dr-evan.github.io"
 languageCode = "en"
-title = "Board Certified Forensic Psychologist"
+title = "Evan Freedman | Board Certified Forensic Psychologist"
 theme = "hugo-initio"
 
 [params]
     name = "Dr. Evan Freedman, Ph D, ABPP"
-    description = "Compassionate, Expert, Mental Health Services"
+    description = "Board Certified Forensic Psychologist"
     email = "evan@drfreedman.com"
     phone = "Phone: 360-734-2664"
     fax = "Fax: 360-785-2056"
@@ -44,12 +44,10 @@ theme = "hugo-initio"
     url = "https://www.linkedin.com/in/nickname"
     icon = "fab fa-linkedin"
     footer = false
-    sharethis = true
     network = "linkedin"
 [[params.social]]
     title = "email"
     url = "mailto:evan@drfreedman.com"
     icon = "fas fa-envelope-square"
     footer = false
-    sharethis = true
     network = "email"
