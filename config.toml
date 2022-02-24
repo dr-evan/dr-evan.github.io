@@ -1,0 +1,55 @@
+baseURL = "https://dr-evan.github.io/"
+languageCode = "en"
+title = "Board Certified Forensic Psychologist"
+theme = "hugo-initio"
+
+[params]
+    name = "Dr. Evan Freedman, Ph D, ABPP"
+    description = "Compassionate, Expert, Mental Health Services"
+    email = "evan@drfreedman.com"
+    phone = "Phone: 360-734-2664"
+    fax = "Fax: 360-785-2056"
+    address = "1414 Broadway St, Suite G, Bellingham WA 98225"
+    year = 2022
+    avatar = "images/guy.jpg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/evan-header.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "February 23, 2022"
+    author = ""
+
+    showSubheader = true
+
+    showFooterContact = true
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Services"
+    url = "/#services"
+    weight = 3
+[[menu.main]]
+    name = "Qualifications"
+    url = "/#qualifications"
+    weight = 5
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/nickname"
+    icon = "fab fa-linkedin"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+    title = "email"
+    url = "mailto:evan@drfreedman.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"

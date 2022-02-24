@@ -1,0 +1,85 @@
+baseURL: https://dr-evan.github.io
+languageCode: en-us
+title: Dr. Evan Freedman | Forensic Psychologist
+theme: hugo-initio
+publishDir: docs
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: false
+  # Used as meta data; describe your site to make Google Bots happy
+  description: Forensic Psychologist
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    title: Compassionate, Expert, Mental Health Service
+    buttontext: Learn More
+    buttonlink: "/#Services"
+    image: evan-standing-narrow.jpg
+  navbar:
+  - title: Services
+    url: "/#Services"
+  - title: Qualifications
+    sublinks:
+    - title: Professional Affiliations
+      url: /professional-affiliations
+    - title: Board Certification
+      url: /board-certification
+    - title: Curriculum Vitae
+      url: /files/CV-EBF-20200521.pdf
+  section2:
+    title: Services
+    features:
+    - title: Forensic Evaluation
+      text: Mental health evaluations which are typically court ordered and used in a legal or adversarial process. In this category are evaluations related to parenting, personal injury, any form of competency, risk assessment or employment issues.
+    - title: Psychotherapy
+      text: Compassionate, evidence based treatment for emotional and behavioral issues. 
+    - title: Psychological Evaluation & Testing
+      text: Clinical evaluations for children, adolescents and adults designed to aid treatment or answer specific, non-legal questions.
+    - title: Scientific Expert Testimony
+      text: Expert witness testimony on empirical psychological research and professional literature pertaining to a legal question before the court.
+    - title: Psychological Consultation
+      text: Consultation to attorneys and mental health professionals to address questions that pertain to the interaction of psychology and the legal system.
+    - title: Parenting Coordination
+      text: An alternative dispute resolution process for separating or separated parents to help facilitate the best interests of the child.
+  section4:
+    title: References
+    subtitle: What people say about Dr. Feedman
+    clients:
+    - name: Irma Walters
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Accountant
+      img: 1
+    - name: John Bradley
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Financial Analyst
+      img: 2
+    - name: Gary Blackman
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: HR Manager
+      img: 3
+  section5: false
+  footer:
+    copyright: "Copyright 2020 Dr. Evan Freedman | All Rights Reserved"
+    quicklines:
+      column1:
+        title: "Contact Info"
+        lines:
+        - text: "Phone: 360-734-2664"
+        - text: "Fax: 360-785-2056"
+        - text: "Email: evan@drevanfreedman.com"
+      column2:
+        title: "Address"
+        lines:
+        - text: "1414 Broadway Street, Suite G"
+        - text: "Bellingham, WA 98225"

@@ -1,0 +1,35 @@
+{{ define "main"}}
+  <main id="main">
+
+    <div class="container">
+  
+      {{ partial "home/subheader.html" . }}
+        {{ range .Site.Sections }}
+            {{ range .Sections.ByWeight }}
+                {{ $stype := .Type}}
+                {{ if (or (and (eq $stype "service"))
+                          (eq $stype "qualification")
+                          (eq $stype "single")) }}
+
+                     <div class="row section featured topspace">
+                       <h2 class="section-title" id="{{.Title}}">
+                         <span>{{.Title}}</span>
+                       </h2>
+                     {{ if eq $stype "service" }}
+                         {{ partial "home/services.html" . }}
+
+                     {{ else if eq $stype "qualification" }}
+                       {{ partial "home/qualifications.html" . }}
+
+                     {{ else if eq $stype "single"  }}
+                       {{ partial "home/single.html" . }}
+
+                     {{ end }}
+                </div>	<!-- /section -->
+              {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>	<!-- /container -->
+  </main>
+
+{{ end }}
