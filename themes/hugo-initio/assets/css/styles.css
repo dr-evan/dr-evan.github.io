@@ -263,7 +263,7 @@ a:hover {
   color: #5E5E5E;
 }
 .home #head {
-  padding: 90px 0;
+  padding: 90px 0 40px;
 }
 .home #head .title {
   font-size: 49px;
