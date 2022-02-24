@@ -12,7 +12,7 @@
                           (eq $stype "single")) }}
 
                      <div class="row section featured topspace">
-                       <h2 class="section-title" id="{{.Title}}">
+                       <h2 class="section-title" id="{{ lower .Title}}">
                          <span>{{.Title}}</span>
                        </h2>
                      {{ if eq $stype "service" }}
