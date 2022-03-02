@@ -6,4 +6,4 @@ Here is Evan's CV.
 
 <!--more-->
 
-[DOWNLOAD HERE](/files/CV-EBF-20200521.pdf)
+[DOWNLOAD HERE](/files/CV - Dr. Evan Freedman.pdf)
