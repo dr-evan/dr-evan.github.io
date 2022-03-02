@@ -10,7 +10,7 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 
 # Areas of Forensic Specialization
 ## Family and Custody
-* Parental Capacity/Child Protection
+* [Parental Capacity/Child Protection](#Parental Capacity/Child Protection)
 * Child Custody
 * Parenting Evaluations of Individual Custody Litigants
 * Grandparent or Family Member Visitation
@@ -28,9 +28,8 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * Guardianship Evaluation
 
 
-
-## Further Information
-### Parental Capacity/Child Protection
+# Further Information
+## Parental Capacity/Child Protection
 Evaluations of parental capacity are most commonly requested by case workers from the Division of Children and Family Services (DCFS) or the Washington State Attorney General’s office. Such evaluations provide opinions to the court to assist in decision making around a person’s parental capacity and the best psychological interests of their child. Parents referred for such evaluations have often been alleged to have abused, abandoned or neglected their children or to have mental health and/or substance use issues which may have impaired their parental capacity.
 
 Parenting capacity evaluations follow RCW 13.34, Juvenile Court Act – Dependency and Termination of Parent-Child Relationship, specifically 13.34.180 subsection 1 and 13.34. 190 subsection 1b. Such evaluations provide estimates of the likelihood for conditions to be remedied so that the child can be returned to the parent and the parent’s ability to address parental deficiencies within the near future. Treatment recommendations or other “necessary services” to facilitate return of the examinee’s child are usually provided. The parent’s ability to benefit from such services is also estimated. Finally, if appropriate, opinions regarding the child’s best psychological interests are provided to assist the court.
