@@ -1,5 +1,5 @@
 +++
-title = "Forensic Mental Health Evaluation"
+title = "Forensic Evaluation"
 +++
 
 Mental health evaluations which are typically court ordered and used in a legal or adversarial process. In this category are evaluations related to parenting, personal injury, any form of competency, risk assessment or employment issues.
