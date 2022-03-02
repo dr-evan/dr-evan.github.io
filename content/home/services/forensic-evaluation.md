@@ -60,12 +60,16 @@ When conducting child custody evaluations Dr. Freedman reviews multiple forms of
 
 For further information on the ethics and methodology of Child Custody Evaluations please see the [Guidelines for Child Custody Evaluations in Family Law Proceedings](https://www.apa.org/practice/guidelines/child-custody.pdf) published by the American Psychological Association and the [Model Standards of Practice for Child Custody Evaluations](http://www.afccnet.org/Portals/0/ModelStdsChildCustodyEvalSept2006.pdf) published by the Association of Family and Consiliation Courts.
 
+[Back to top](#top)
+
 ## Parenting Evaluations of Individual Custody Litigants
 An individual involved in a custodial dispute may be ordered by the court to undergo a forensic mental health evaluation. This type of evaluation is appropriate when a full custody evaluation involving a comparative analysis of both parents is unnecessary. As described in WAC 246-924-467, such an evaluation may assess a number of factors which could impact a custody litigant’s parenting ability. Commonly evaluated are substance abuse, psychological function, intimate partner violence, sexual or physical abuse of a child, restrictive gatekeeping behaviors or child alienation. As in any other forensic evaluations, Dr. Freedman is only able to form opinions and testify regarding issues which he has directly evaluated.
 
 Such evaluations involve an interviews using a semi-structured protocol. Information related to the parent’s personal history, orientation to and history of parenting and current emotional function is collected. If appropriate, Dr. Freedman administers empirically validated parent related tests and will observe the child with the parent. If appropriate a home visit during the parent’s custodial time will also be scheduled. When there are questions regarding the effect of emotional or intellectual function on parenting capacity, empirically derived tests of function in these areas may be administered.
 
 When conducting a focused evaluation of a custody litigant Dr. Freedman reviews multiple forms of written documentation including pleadings and court orders, declarations or other written documentation from the parties or their advocates, written input from collateral sources, criminal or law enforcement history, school records, mental or physical health records, previous psychological or substance abuse evaluations and child protective service records among others. Dr. Freedman conducts interviews with collateral sources who know or have worked with the parent and the child, including family members, mental health providers, physicians, teachers, athletic coaches and religious leaders among others.
+
+[Back to top](#top)
 
 ## Grandparent or Family Member Visitation
 Sometimes the court requests psychological or parenting related evaluations to determine if a grandparent or other family relation is capable of safely caring for a child. Specific questions related to the examinee’s mental health stability or parenting skills may be raised. Commonly evaluated are substance abuse, psychological function, intimate partner violence or risk of sexual or physical abuse of a child. As in any other forensic evaluations, Dr. Freedman is only able to form opinions and testify regarding issues which he has directly evaluated.
@@ -74,12 +78,16 @@ These types of evaluations involve interviews using a semi-structured protocol. 
 
 When conducting a parenting related evaluation of a grandparent or family member Dr. Freedman reviews multiple forms of written documentation including pleadings and court orders, declarations or other written documentation from the parties or their advocates, written input from collateral sources, criminal or law enforcement history, school records, mental or physical health records, previous psychological or substance abuse evaluations and child protective service records among others. Dr. Freedman will conduct interviews with collateral sources who know or have worked with the examinee, including family members, mental health providers, physicians, teachers, athletic coaches and religious leaders among others.
 
+[Back to top](#top)
+
 ## Adoption Readiness/Suitability
 Questions may be raised about the readiness or suitability of an adoptive parent or home. Evaluations are requested to provide information to a licensing entity regarding the readiness or suitability of parent to serve as a foster or adoptive home. At times such evaluations consider the specific needs of a particular child and the capacity of the parent to meet that child’s needs. As in any other forensic evaluations, Dr. Freedman is only able to form opinions and testify regarding issues which he has directly evaluated.
 
 Such evaluations involve interviews using a semi-structured protocol. Information related to the parent’s personal history, orientation to and history of parenting and current emotional function is collected. If appropriate, Dr. Freedman administers empirically validated parent related tests and may conduct a home visit. When there are questions regarding the effect of emotional or intellectual function on parenting capacity or emotional stability, empirically derived tests of function in these areas may be administered.
 
 When conducting an assessment of the suitability or readiness of an adoptive home Dr. Freedman reviews multiple forms of written documentation including pleadings and court orders, declarations or other written documentation, written input from collateral sources, criminal or law enforcement history, school records, mental or physical health records, previous psychological or substance abuse evaluations and child protective service records among others. Dr. Freedman will conduct interviews with collateral sources who know or have worked with the examinee, including family members, mental health providers, physicians, teachers, athletic coaches and religious leaders among others.
+
+[Back to top](#top)
 
 ## Immigration Evaluations
 There are a several situations in which forensic psychological evaluations may be useful to individuals involved with United States Immigration Services.
@@ -97,8 +105,12 @@ There are a several situations in which forensic psychological evaluations may b
 
 * **U Visas** ([I-360 Petition](https://www.uscis.gov/i-360)): U visas are given to immigrants who are the victims of certain types of crimes including sexual exploitation and abuse, intimate partner violence or genital mutilation. US immigration law dictates that in order for victims to be eligible for a U visa they must be willing to be helpful in the investigation or prosecution of the criminal activity and to have suffered mental or physical abuse. Family members of the victim may also be eligible for a U visa. Forensic mental health evaluations may be helpful in these types of cases to provide information to immigration officials regarding the nature and impact of the abuse including its psychological consequences.
 
+[Back to top](#top)
+
 ## Risk and Threat Assessment
 Dr. Freedman is frequently consulted by schools, businesses and institutions to assess the potential risk an individual may pose to themselves or others. Evaluation of risk involves extensive interviews with the examinee and collateral sources, review of collateral records, psychological testing and use of forensic assessment tools which estimate risk.
+
+[Back to top](#top)
 
 ## Diminished Capacity/Criminal Responsibility
 Individuals who have been charged with a crime may suffer from mental conditions which could reduce their capacity to form the intent to commit the alleged offence. In order to demonstrate diminished capacity in Washington State a criminal defendant must produce expert testimony demonstrating that the defendant suffered from a mental condition that impaired his or her ability to form the requisite specific intent. In these cases forensic assessment according to RCW 10.77.060 subsection 3 (or applicable Tribal Code) will address the following questions:
@@ -108,6 +120,8 @@ Individuals who have been charged with a crime may suffer from mental conditions
 * Does the examinee require evaluation by a County Designated Mental Health Professional under RCW 71.05.?
 
 Evaluation of diminished capacity involves a semi-structured interview with the examinee. In most cases administration of psychological tests of cognitive and emotional function as well as forensic assessments to assess for malingering or other issues are usually administered. Interviews with the examinee’s attorney or others who know the examinee well are usually included.
+
+[Back to top](#top)
 
 ## Trial Competency
 Evaluation of competency to stand trial is based on the two-part test for competency in Washington State which has been established through case law. The two part standard includes: 1) whether the defendant understands the nature of the charges and 2) whether the defendant is capable of assisting in his or her defense. At times it is necessary to assess other forms of competency at issue in the criminal legal process including the competence to plead guilty, waive counsel, or to refuse the insanity defense.
@@ -120,6 +134,8 @@ As described in the Washington State RCW 10.77.060 (or applicable Tribal Code) t
 * Is it likely for the examinee to be restored to competency within a reasonable period of time?
 
 Evaluation of trial competency involves a semi-structured interview with the examinee and administration of forensic assessment instruments that assess competency. Interviews with the examinee’s attorney or others who know the examinee may also be used. Assessment of other factors related to competency including cognitive capacity, mental health problems or malingering may require administration of further empirically derived psychological test measures.
+
+[Back to top](#top)
 
 ## Civil Competency
 The concept of civil competency applies when there are questions regarding the capacity of an individual to competently participate in a legal procedure or competently perform a task which carries legally enforceable consequences.
@@ -136,6 +152,8 @@ Testamentary capacity refers to an individual’s ability to competently change 
 **Capacity to Accept or Refuse Treatment**
 There may be questions about a person’s ability to provide informed consent in a competent and voluntary manner. In such cases forensic mental health evaluation may be helpful to provide information about the individual’s ability to understand the nature, purpose and potential consequences of the treatment being proposed.
 
+[Back to top](#top)
+
 ## Personal injury
 In personal injury cases an individual generally makes a claim that their mental health or neurological function has been harmed by the actions of another person or entity. In such cases it is often helpful to provide information to the court on the nature of the person’s claimed injury and related questions. Forensic mental health evaluation in personal injury cases address the following questions:
 * What was the examinee’s baseline psychological function before the alleged injury?
@@ -144,6 +162,8 @@ In personal injury cases an individual generally makes a claim that their mental
 * Would a “reasonably constituted” person have been similarly harmed by the alleged injury?
 
 Opinions rendered in personal injury evaluations are supported by evidence gathered through interview, psychological testing, review of collateral records and collateral interviews. Opinions are based on a reasonable degree of psychological certainty and designed to meet the legal standard of preponderance of evidence used in personal injury cases.
+
+[Back to top](#top)
 
 ## Guardianship
 When there are questions about a person’s capacity to make everyday decisions, a guardianship may be considered. The court may appoint a guardian to help make some or all of the decisions for a person who is impaired by mental deterioration, physical incapacity, mental illness, or developmental disability. In these cases an assessment of the individual’s capacity to make decisions in a variety of domains may be useful determining the need for a guardian and the extent of the guardian’s role. It is necessary to determine if the individual is at risk of harm due to a demonstrated inability to adequately provide for their nutrition, health, housing, physical safety, property, or financial affairs (RCW 11.88.010(1)).
