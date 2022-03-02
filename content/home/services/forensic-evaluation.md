@@ -17,13 +17,13 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * [Adoption Readiness/Suitability](#adoption-readinesssuitability)
 
 ## Juvenile
-* [Risk and Threat Assessment](#risk-and-threat-assessment)
+* [Risk and Threat Assessment](#risk-and-threat-assessment-2)
 * [Diminished Capacity/Criminal Responsibility](#diminished-capacitycriminal-responsibility)
 * [Trial Competency](#trial-competency)
 
 ## Adult
 * [Immigration Evaluations](#immigration-evaluations)
-* [Risk and Threat Assessment](#risk-and-threat-assessment)
+* [Risk and Threat Assessment](#risk-and-threat-assessment-2)
 * [Diminished Capacity/Criminal Responsibility](#diminished-capacitycriminal-responsibility)
 * [Trial Competency](#trial-competency)
 * [Civil Competency](#civil-competency)
