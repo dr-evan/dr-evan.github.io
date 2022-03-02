@@ -28,8 +28,8 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * [Trial Competency](#trial-competency)
 * [Civil Competency](#civil-competency)
 * [Personal injury](#personal-injury)
-* [Fitness for duty (including weapons bearing)](#fitness-for-duty-including-weapons-bearing)
-* [Pre-employment](#preemployment)
+* [Fitness for duty (including weapons bearing)]
+* [Pre-employment]
 * [Guardianship Evaluation](#guardianship-evaluation)
 
 
@@ -99,9 +99,49 @@ There are a several situations in which forensic psychological evaluations may b
 Dr. Freedman is frequently consulted by schools, businesses and institutions to assess the potential risk an individual may pose to themselves or others. Evaluation of risk involves extensive interviews with the examinee and collateral sources, review of collateral records, psychological testing and use of forensic assessment tools which estimate risk.
 
 ## Diminished Capacity/Criminal Responsibility
+Individuals who have been charged with a crime may suffer from mental conditions which could reduce their capacity to form the intent to commit the alleged offence. In order to demonstrate diminished capacity in Washington State a criminal defendant must produce expert testimony demonstrating that the defendant suffered from a mental condition that impaired his or her ability to form the requisite specific intent. In these cases forensic assessment according to RCW 10.77.060 subsection 3 (or applicable Tribal Code) will address the following questions:
+* Does the examinee suffer from a recognized mental disease or defect or have a developmental disability?
+* If so, to what degree was the examinee’s capacity to form the particular mental state (which is an element of the charged offence) impaired by the mental disease or defect?
+* What treatment or intervention would reduce risk of recidivism?
+* Does the examinee require evaluation by a County Designated Mental Health Professional under RCW 71.05.?
+
+Evaluation of diminished capacity involves a semi-structured interview with the examinee. In most cases administration of psychological tests of cognitive and emotional function as well as forensic assessments to assess for malingering or other issues are usually administered. Interviews with the examinee’s attorney or others who know the examinee well are usually included.
+
 ## Trial Competency
+Evaluation of competency to stand trial is based on the two-part test for competency in Washington State which has been established through case law. The two part standard includes: 1) whether the defendant understands the nature of the charges and 2) whether the defendant is capable of assisting in his or her defense. At times it is necessary to assess other forms of competency at issue in the criminal legal process including the competence to plead guilty, waive counsel, or to refuse the insanity defense.
+
+As described in the Washington State RCW 10.77.060 (or applicable Tribal Code) trial competency evaluations generally address several questions including the following:
+* What is the examinee’s current mental status?
+* Does the examinee suffer from a mental disease or defect, or developmental disability which impairs her competency to stand trial?
+* Did the examinee have the capacity at the time of the offence to form the mental state necessary to commit the charged offence? If not, then an opinion will be provided as to whether the examinee had “a particular state of mind which is an element of the offense charged”.
+* Does the examinee present “a substantial danger to other persons” or “a substantial likelihood of committing criminal acts jeopardizing public safety or security”, if not “kept under further control by the court or other persons or institutions”?
+* Is it likely for the examinee to be restored to competency within a reasonable period of time?
+
+Evaluation of trial competency involves a semi-structured interview with the examinee and administration of forensic assessment instruments that assess competency. Interviews with the examinee’s attorney or others who know the examinee may also be used. Assessment of other factors related to competency including cognitive capacity, mental health problems or malingering may require administration of further empirically derived psychological test measures.
+
 ## Civil Competency
+The concept of civil competency applies when there are questions regarding the capacity of an individual to competently participate in a legal procedure or competently perform a task which carries legally enforceable consequences.
+
+**Competency to participate in a civil trial**
+In some cases there may be questions about a litigant’s ability to competently participate in a trial or other legal proceeding. Case law may apply to the specific type of case, however in general terms, evaluation of civil trial competency is an assessment of whether the individual is able to “understandably and intelligently comprehend the significance of the legal proceedings and their effect on their best interest”.
+
+**Financial Capacity**
+Questions may be raised about an individual’s ability to manage financial affairs. Forensic assessment in this area provides information to the courts regarding a person’s specific abilities to make financial decisions and manage their day to day financial affairs. When there are more general questions about a person’s decision making ability, a guardianship evaluation may be necessary
+
+**Testamentary Capacity**
+Testamentary capacity refers to an individual’s ability to competently change or create a will. In general terms in order for a will to be valid a person must understand the nature and purpose of the will, who their heirs are, and the nature and extent of their assets. Evaluations of testamentary capacity are sometimes requested at the time a will is being created to establish a record of the person’s competency. At times, there may be questions about an individual’s testamentary capacity which arise after the person has been deceased. These type of evaluations, also known as “psychological autopsies” include review of medical records and interviews in an effort to determine the person’s capacity at the time the will was written.
+
+**Capacity to Accept or Refuse Treatment**
+There may be questions about a person’s ability to provide informed consent in a competent and voluntary manner. In such cases forensic mental health evaluation may be helpful to provide information about the individual’s ability to understand the nature, purpose and potential consequences of the treatment being proposed.
+
 ## Personal injury
-## Fitness for duty (including weapons bearing)
-## Pre-employment
+In personal injury cases an individual generally makes a claim that their mental health or neurological function has been harmed by the actions of another person or entity. In such cases it is often helpful to provide information to the court on the nature of the person’s claimed injury and related questions. Forensic mental health evaluation in personal injury cases address the following questions:
+* What was the examinee’s baseline psychological function before the alleged injury?
+* What is the nature and extent of distress caused to the examinee which might relate to the alleged injury?
+* Has the examinee reasonably attempted to mitigate harm they claim to have suffered?
+* Would a “reasonably constituted” person have been similarly harmed by the alleged injury?
+
+Opinions rendered in personal injury evaluations are supported by evidence gathered through interview, psychological testing, review of collateral records and collateral interviews. Opinions are based on a reasonable degree of psychological certainty and designed to meet the legal standard of preponderance of evidence used in personal injury cases.
+
 ## Guardianship Evaluation
+When there are questions about a person’s capacity to make everyday decisions, a guardianship may be considered. The court may appoint a guardian to help make some or all of the decisions for a person who is impaired by mental deterioration, physical incapacity, mental illness, or developmental disability. In these cases an assessment of the individual’s capacity to make decisions in a variety of domains may be useful determining the need for a guardian and the extent of the guardian’s role. It is necessary to determine if the individual is at risk of harm due to a demonstrated inability to adequately provide for their nutrition, health, housing, physical safety, property, or financial affairs (RCW 11.88.010(1)).
