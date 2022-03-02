@@ -14,18 +14,18 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * [Child Custody](#child-custody)
 * [Parenting Evaluations of Individual Custody Litigants](#parenting-evaluations-of-individual-custody-litigants)
 * [Grandparent or Family Member Visitation](#grandparent-or-family-member-visitation)
-* [Adoption Readiness/Suitability](#adoptions-readinesssuitability)
+* [Adoption Readiness/Suitability](#adoption-readinesssuitability)
 
 ## Adult
-* Immigration Evaluations
-* Risk and Threat Assessment
-* Diminished Capacity/Criminal Responsibility
-* Trial Competency
-* Civil Competency
-* Personal injury
-* Fitness for duty (including weapons bearing)
-* Pre-employment
-* Guardianship Evaluation
+* [Immigration Evaluations](#immigration-evaluations]
+* [Risk and Threat Assessment](#risk-and-threat-assessment)
+* [Diminished Capacity/Criminal Responsibility](#diminished-capacitycriminal-responsibility)
+* [Trial Competency](#trial-competency)
+* [Civil Competency](#civil-competency)
+* [Personal injury](#personal-injury)
+* [Fitness for duty (including weapons bearing)](#fitness-for-duty)
+* [Pre-employment](#preemployment)
+* [Guardianship Evaluation](#guardianship-evaluation)
 
 
 # Further Information
@@ -73,3 +73,13 @@ Questions may be raised about the readiness or suitability of an adoptive parent
 Such evaluations involve interviews using a semi-structured protocol. Information related to the parent’s personal history, orientation to and history of parenting and current emotional function is collected. If appropriate, Dr. Freedman administers empirically validated parent related tests and may conduct a home visit. When there are questions regarding the effect of emotional or intellectual function on parenting capacity or emotional stability, empirically derived tests of function in these areas may be administered.
 
 When conducting an assessment of the suitability or readiness of an adoptive home Dr. Freedman reviews multiple forms of written documentation including pleadings and court orders, declarations or other written documentation, written input from collateral sources, criminal or law enforcement history, school records, mental or physical health records, previous psychological or substance abuse evaluations and child protective service records among others. Dr. Freedman will conduct interviews with collateral sources who know or have worked with the examinee, including family members, mental health providers, physicians, teachers, athletic coaches and religious leaders among others.
+
+## Immigration Evaluations
+## Risk and Threat Assessment
+## Diminished Capacity/Criminal Responsibility
+## Trial Competency
+## Civil Competency
+## Personal injury
+## Fitness for duty (including weapons bearing)
+## Pre-employment
+## Guardianship Evaluation
