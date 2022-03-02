@@ -10,7 +10,7 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 
 # Areas of Forensic Specialization
 ## Family and Custody
-* Parental Capacity/Child Protection
+* [Parental Capacity/Child Protection](/content/home/services/forensic-evaluation/parental-capacity)
 * Child Custody
 * Parenting Evaluations of Individual Custody Litigants
 * Grandparent or Family Member Visitation
