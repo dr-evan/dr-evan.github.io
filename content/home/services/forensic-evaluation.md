@@ -28,8 +28,8 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * [Trial Competency](#trial-competency)
 * [Civil Competency](#civil-competency)
 * [Personal injury](#personal-injury)
-* [Fitness for duty (including weapons bearing)]
-* [Pre-employment]
+* Fitness for duty (including weapons bearing)
+* Pre-employment
 * [Guardianship Evaluation](#guardianship-evaluation)
 
 
