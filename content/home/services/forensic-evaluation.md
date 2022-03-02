@@ -22,7 +22,7 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * [Trial Competency](#trial-competency)
 
 ## Adult
-* [Immigration Evaluations](#immigration-evaluations)
+* [Immigration](#immigration)
 * [Risk and Threat Assessment](#risk-and-threat-assessment)
 * [Diminished Capacity/Criminal Responsibility](#diminished-capacitycriminal-responsibility)
 * [Trial Competency](#trial-competency)
@@ -89,7 +89,7 @@ When conducting an assessment of the suitability or readiness of an adoptive hom
 
 [Back to top](#areas-of-forensic-specialization)
 
-## Immigration Evaluations
+## Immigration
 There are a several situations in which forensic psychological evaluations may be useful to individuals involved with United States Immigration Services.
 * **Medical Certification for Disability Exceptions** ([Form N-648](https://www.uscis.gov/n-648)): Permanent legal residents of the United States who wish to become citizens must demonstrate a knowledge of United States history and civics as well as the capacity to read, write, and speak English. Applicants may seek an exception to these requirements if they suffer from a developmental disability or mental impairment which has lasted at least 12 months. Demonstration of such impairments is supported by forensic psychological assessment and completion of the N-648 Form.
 
