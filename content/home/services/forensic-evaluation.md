@@ -167,3 +167,5 @@ Opinions rendered in personal injury evaluations are supported by evidence gathe
 
 ## Guardianship
 When there are questions about a person’s capacity to make everyday decisions, a guardianship may be considered. The court may appoint a guardian to help make some or all of the decisions for a person who is impaired by mental deterioration, physical incapacity, mental illness, or developmental disability. In these cases an assessment of the individual’s capacity to make decisions in a variety of domains may be useful determining the need for a guardian and the extent of the guardian’s role. It is necessary to determine if the individual is at risk of harm due to a demonstrated inability to adequately provide for their nutrition, health, housing, physical safety, property, or financial affairs (RCW 11.88.010(1)).
+
+[Back to top](#top)
