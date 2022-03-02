@@ -16,14 +16,19 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * [Grandparent or Family Member Visitation](#grandparent-or-family-member-visitation)
 * [Adoption Readiness/Suitability](#adoption-readinesssuitability)
 
+## Juvenile
+* [Risk and Threat Assessment](#risk-and-threat-assessment)
+* [Diminished Capacity/Criminal Responsibility](#diminished-capacitycriminal-responsibility)
+* [Trial Competency](#trial-competency)
+
 ## Adult
-* [Immigration Evaluations](#immigration-evaluations]
+* [Immigration Evaluations](#immigration-evaluations)
 * [Risk and Threat Assessment](#risk-and-threat-assessment)
 * [Diminished Capacity/Criminal Responsibility](#diminished-capacitycriminal-responsibility)
 * [Trial Competency](#trial-competency)
 * [Civil Competency](#civil-competency)
 * [Personal injury](#personal-injury)
-* [Fitness for duty (including weapons bearing)](#fitness-for-duty)
+* [Fitness for duty (including weapons bearing)](#fitness-for-duty-including-weapons-bearing)
 * [Pre-employment](#preemployment)
 * [Guardianship Evaluation](#guardianship-evaluation)
 
@@ -75,7 +80,24 @@ Such evaluations involve interviews using a semi-structured protocol. Informatio
 When conducting an assessment of the suitability or readiness of an adoptive home Dr. Freedman reviews multiple forms of written documentation including pleadings and court orders, declarations or other written documentation, written input from collateral sources, criminal or law enforcement history, school records, mental or physical health records, previous psychological or substance abuse evaluations and child protective service records among others. Dr. Freedman will conduct interviews with collateral sources who know or have worked with the examinee, including family members, mental health providers, physicians, teachers, athletic coaches and religious leaders among others.
 
 ## Immigration Evaluations
+There are a several situations in which forensic psychological evaluations may be useful to individuals involved with United States Immigration Services.
+1. **Medical Certification for Disability Exceptions** ([Form N-648](https://www.uscis.gov/n-648)): Permanent legal residents of the United States who wish to become citizens must demonstrate a knowledge of United States history and civics as well as the capacity to read, write, and speak English. Applicants may seek an exception to these requirements if they suffer from a developmental disability or mental impairment which has lasted at least 12 months. Demonstration of such impairments is supported by forensic psychological assessment and completion of the N-648 Form.
+
+N-648 evaluations assess for disabilities or impairments which effect the person’s ability to learn or speak English or to demonstrate a knowledge of civics. Problems with memory, poor education, dementia, chronic mental illness, head injury or developmental delay are often encountered in these types of evaluations. Therefore, such evaluations normally include tests of neurological and emotional function as well as interviews with the examinee and their family members.
+
+2. **Political Asylum** Individuals may file for political asylum in the United States on the basis of mistreatment they experienced in their home country. Exploitation, abuse, oppression and discrimination on the basis of race, ethnicity, gender, religion or political affiliation may result in enduring psychological injury. In these cases, forensic mental health evaluation may be helpful to asylum seekers to provide Immigration Services with information on the nature and cause of their psychological injury. Evaluation can also provide information as to whether or not the person’s psychological difficulties interfered with the timely filing of the claim for political asylum.
+
+3. **Extreme Hardship** ([I-601A Waiver](https://www.uscis.gov/i-601a)): Individuals who have been found inadmissible to the United States may claim “extreme hardship” when denial of residency may have a psychological impact on a US citizen who is an immediate and qualifying relative. For example, a child who is citizen or legal permanent resident of the United States might experience significant mental health issues if their parent was unable to remain in the United States to care for them. Forensic mental health evaluation may be useful in supporting such claims through evaluation of the qualifying relative and assessment of the potential psychological impact of separation or relocation.
+
+4. **Inadmissibility due to physical or mental disorder associated with harmful behavior** ([I-601 Waiver](http://www.uscis.gov/i-601)): Individuals may be found ineligible to be admitted into the United States as an immigrant, or ineligible to adjust their immigrant status due to a physical or mental disorder associated with harmful behavior. Such individuals are required to complete Form I-601, The Application for Waiver of Ground of Admissibility. Forensic mental health evaluations may be needed to assess the status of the person’s mental illness and whether they have ever or currently pose a threat to the welfare, property or safety of themselves or others. Such evaluations call for a prognosis, “based on a reasonable degree of medical certainty” regarding the likelihood for harmful behavior to occur. I-601 evaluations are also required to include a recommendation for treatment that could reduce the likelihood of harmful behavior.
+
+5. **Battered Spouse, Children or Parents** ([I-360 Petition](https://www.uscis.gov/i-360)): United States Immigration law protects non-resident spouses, children or parents of United States citizens and legal permanent residents when there is a history of abuse. When a non-citizen spouse, child or parent is abused by a related citizen/resident, the abused party may file an immigrant visa petition under the Immigration and Nationality Act (INA), as amended by the Violence Against Women Act (VAWA). This allows the victim of abuse to seek safety and independence from their abuser. Forensic mental health evaluations may be helpful in these types of cases to provide information to immigration officials regarding the nature and impact of the abuse including its psychological consequences.
+
+6. **U Visas** ([I-360 Petition](https://www.uscis.gov/i-360)): U visas are given to immigrants who are the victims of certain types of crimes including sexual exploitation and abuse, intimate partner violence or genital mutilation. US immigration law dictates that in order for victims to be eligible for a U visa they must be willing to be helpful in the investigation or prosecution of the criminal activity and to have suffered mental or physical abuse. Family members of the victim may also be eligible for a U visa. Forensic mental health evaluations may be helpful in these types of cases to provide information to immigration officials regarding the nature and impact of the abuse including its psychological consequences.
+7. 
 ## Risk and Threat Assessment
+Dr. Freedman is frequently consulted by schools, businesses and institutions to assess the potential risk an individual may pose to themselves or others. Evaluation of risk involves extensive interviews with the examinee and collateral sources, review of collateral records, psychological testing and use of forensic assessment tools which estimate risk.
+
 ## Diminished Capacity/Criminal Responsibility
 ## Trial Competency
 ## Civil Competency
