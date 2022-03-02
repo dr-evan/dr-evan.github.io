@@ -47,6 +47,8 @@ When conducting parental capacity evaluations Dr. Freedman reviews multiple form
 
 For further information on the ethics and practice of parental capacity evlauations please review the [Guidelines for Psychological Evaluations in Child Protection Matters](http://www.apa.org/practice/guidelines/child-protection.pdf) provided by the American Psychological Association.
 
+<a href="#top">Back to top</a>
+
 ## Child Custody
 The purpose of a child custody evaluation is to assist the court in determining the best interests of children involved in custody disputes and to assist in developing a parenting plan consistent with the requirements of RCW 26.09.184, 26.09.187, 26.09.191, and 26.09.220. Opinions also assist the court in decision making regarding modification of an existing parenting plan (RCW 26.09.260), relocation (RCW 26.09.520) or other specific issues.
 
