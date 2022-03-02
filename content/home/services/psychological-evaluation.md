@@ -1,5 +1,5 @@
 +++
-title = "Evaluation & Testing"
+title = "Psych Evaluation & Testing"
 +++
 
 Clinical evaluations for children, adolescents and adults designed to aid treatment or answer specific, non-legal questions.
