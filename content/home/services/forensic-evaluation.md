@@ -30,7 +30,7 @@ In the role of Forensic Psychologist, Dr. Freedman applies psychological science
 * [Personal injury](#personal-injury)
 * Fitness for duty (including weapons bearing)
 * Pre-employment
-* [Guardianship Evaluation](#guardianship-evaluation)
+* [Guardianship](#guardianship)
 
 
 # Further Information
@@ -47,7 +47,7 @@ When conducting parental capacity evaluations Dr. Freedman reviews multiple form
 
 For further information on the ethics and practice of parental capacity evlauations please review the [Guidelines for Psychological Evaluations in Child Protection Matters](http://www.apa.org/practice/guidelines/child-protection.pdf) provided by the American Psychological Association.
 
-<a href="#top">Back to top</a>
+[Back to top](#top)
 
 ## Child Custody
 The purpose of a child custody evaluation is to assist the court in determining the best interests of children involved in custody disputes and to assist in developing a parenting plan consistent with the requirements of RCW 26.09.184, 26.09.187, 26.09.191, and 26.09.220. Opinions also assist the court in decision making regarding modification of an existing parenting plan (RCW 26.09.260), relocation (RCW 26.09.520) or other specific issues.
@@ -145,5 +145,5 @@ In personal injury cases an individual generally makes a claim that their mental
 
 Opinions rendered in personal injury evaluations are supported by evidence gathered through interview, psychological testing, review of collateral records and collateral interviews. Opinions are based on a reasonable degree of psychological certainty and designed to meet the legal standard of preponderance of evidence used in personal injury cases.
 
-## Guardianship Evaluation
+## Guardianship
 When there are questions about a person’s capacity to make everyday decisions, a guardianship may be considered. The court may appoint a guardian to help make some or all of the decisions for a person who is impaired by mental deterioration, physical incapacity, mental illness, or developmental disability. In these cases an assessment of the individual’s capacity to make decisions in a variety of domains may be useful determining the need for a guardian and the extent of the guardian’s role. It is necessary to determine if the individual is at risk of harm due to a demonstrated inability to adequately provide for their nutrition, health, housing, physical safety, property, or financial affairs (RCW 11.88.010(1)).
