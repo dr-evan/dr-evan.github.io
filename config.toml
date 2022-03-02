@@ -6,7 +6,7 @@ theme = "hugo-initio"
 [params]
     name = "Evan Freedman, PhD, ABPP"
     description = "Board Certified Forensic Psychologist"
-    email = "[Click to email](mailto:evan@drevanfreedman.com)"
+    email = "evan@drevanfreedman.com"
     phone = "Phone: 360-734-2664"
     fax = "Fax: 360-785-2056"
     address = "1414 Broadway St, Suite G, Bellingham WA 98225"
