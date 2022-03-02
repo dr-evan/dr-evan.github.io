@@ -2,8 +2,8 @@
 title: Curriculum Vitae
 ---
 
-Here is Evan's CV.
+Dr. Freedman's CV is available for download.
 
 <!--more-->
 
-[DOWNLOAD HERE](static/files/CV - Dr. Evan Freedman.pdf)
+[DOWNLOAD HERE](/files/CV - Dr. Evan Freedman.pdf)
