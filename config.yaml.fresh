@@ -70,7 +70,7 @@ params:
       img: 3
   section5: false
   footer:
-    copyright: "Copyright 2020 Dr. Evan Freedman | All Rights Reserved"
+    copyright: "2020 Dr. Evan Freedman | All Rights Reserved"
     quicklines:
       column1:
         title: "Contact Info"
