@@ -1,10 +1,10 @@
 baseURL = "https://dr-evan.github.io"
 languageCode = "en"
-title = "Dr Evan Freedman | Board Certified Forensic Psychologist"
+title = "Dr. Evan Freedman | Board Certified Forensic Psychologist"
 theme = "hugo-initio"
 
 [params]
-    name = "Dr. Evan Freedman, Ph D, ABPP"
+    name = "Evan Freedman, PhD, ABPP"
     description = "Board Certified Forensic Psychologist"
     email = "evan@drevanfreedman.com"
     phone = "Phone: 360-734-2664"
