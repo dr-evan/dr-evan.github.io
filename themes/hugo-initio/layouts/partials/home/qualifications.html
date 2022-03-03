@@ -15,11 +15,11 @@
     <div class="panel panel-cta">
         <div class="panel-body">
             <div class="col-lg-8">
-                <h3>Curriculum Vitae</h3>
-                <p>Dr. Freedman's CV is available for download.</p>
+                <h3>{{ .Site.Params.cvName }}</h3>
+                <p>{{ .Site.Params.cvDescription }}</p>
             </div>
             <div class="text-right">
-                <a href="/files/CV-EvanFreedman.pdf" class="btn btn-primary btn-lg">Download</a>
+                <a href="{{ .Site.Params.cvFile }}" class="btn btn-primary btn-lg">Download</a>
             </div>
         </div>
     </div>

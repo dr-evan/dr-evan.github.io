@@ -17,6 +17,10 @@ theme = "hugo-initio"
     DateForm = "February 23, 2022"
     author = ""
 
+    cvName = "Curriculum Vitae"
+    cvDescription = "Dr. Freedman's CV is available for download."
+    cvFile = "/files/CV-EvanFreedman.pdf"
+
     showSubheader = true
 
     showFooterContact = true
