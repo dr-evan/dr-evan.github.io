@@ -41,15 +41,3 @@ theme = "hugo-initio"
 [params.google.analytics]
     trackerID = "GA-000000000-0"
 
-[[params.social]]
-    title = "linkedin"
-    url = "https://www.linkedin.com/in/nickname"
-    icon = "fab fa-linkedin"
-    footer = false
-    network = "linkedin"
-[[params.social]]
-    title = "email"
-    url = "mailto:evan@drevanfreedman.com"
-    icon = "fas fa-envelope-square"
-    footer = false
-    network = "email"
