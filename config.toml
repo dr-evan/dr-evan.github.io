@@ -1,4 +1,4 @@
-baseURL = "https://evan.fasullo.com"
+baseURL = "http://evan.fasullo.com"
 languageCode = "en"
 title = "Dr. Evan Freedman | Board Certified Forensic Psychologist"
 theme = "hugo-initio"
