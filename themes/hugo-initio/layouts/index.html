@@ -11,8 +11,8 @@
                           (eq $stype "qualification")
                           (eq $stype "single")) }}
 
-                     <div class="row section featured topspace">
-                       <h2 class="section-title" id="{{ lower .Title}}">
+                     <div class="row section featured topspace" id="{{ lower .Title}}">
+                       <h2 class="section-title">
                          <span>{{.Title}}</span>
                        </h2>
                      {{ if eq $stype "service" }}

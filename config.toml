@@ -27,7 +27,7 @@ theme = "hugo-initio"
 
 [[menu.main]]
     name = "home"
-    url = "/"
+    url = "/#header"
     weight = 1
 [[menu.main]]
     name = "Services"
