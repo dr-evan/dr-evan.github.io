@@ -2,6 +2,7 @@ baseURL = "https://www.drevanfreedman.com"
 languageCode = "en"
 title = "Dr. Evan Freedman | Board Certified Forensic Psychologist"
 theme = "hugo-initio"
+enableRobotsTXT = true
 
 [params]
     name = "Evan Freedman, PhD, ABPP"
