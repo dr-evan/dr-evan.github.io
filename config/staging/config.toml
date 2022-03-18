@@ -1,1 +1,4 @@
 baseURL = "https://dr-evan-staging.pages.dev/"
+
+[params]
+    GoogleMeasurementID = "G-C3FM4BLLNZ"

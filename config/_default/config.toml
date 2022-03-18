@@ -17,6 +17,7 @@ enableRobotsTXT = true
     favicon = "/images/gt_favicon.png"
     DateForm = "February 23, 2022"
     author = ""
+    GoogleMeasurementID = "G-C3FM4BLLNZ"
 
     cvName = "Curriculum Vitae"
     cvDescription = "Dr. Freedman's CV is available for download."
@@ -39,6 +40,4 @@ enableRobotsTXT = true
     url = "/#qualifications"
     weight = 5
 
-[params.google.analytics]
-    trackerID = "GA-000000000-0"
 
