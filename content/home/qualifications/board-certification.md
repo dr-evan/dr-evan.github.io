@@ -1,7 +1,7 @@
 ---
 title: Board Certification
 ---
-Dr. Freedman was Board Certified in Forensic Psychology by the American Board of Professional Psychology (ABPP) in 2014. He is among approximately 350 Board Certified Forensic Psychologists in the United States who have been certified by ABPP. 
+Dr. Freedman was Board Certified in Forensic Psychology by the American Board of Professional Psychology (ABPP) in 2014. He is among approximately 300 Board Certified Forensic Psychologists in the United States who have been certified by ABPP. 
 
 <!--more-->
 
