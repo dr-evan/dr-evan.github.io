@@ -2,7 +2,7 @@
 title = "Scientific Expert Testimony"
 +++
 
-Expert witness testimony on empirical psychological research and professional literature pertaining to a legal question before the court. 
+Expert witness testimony on empirical psychological research and professional literature pertaining to a legal question before the court.
 
 <!--more-->
 
