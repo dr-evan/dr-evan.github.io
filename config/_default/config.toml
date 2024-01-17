@@ -39,5 +39,8 @@ enableRobotsTXT = true
     name = "Qualifications"
     url = "/#qualifications"
     weight = 5
-
+[[menu.main]]
+    name = "Inquiry Form"
+    url = "https://form.jotform.com/233325736300145"
+    weight = 7
 
